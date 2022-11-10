@@ -1,4 +1,4 @@
-# Classification_and_Clustering\
+# Classification_and_Clustering
 \
 Задачи классификации и кластеризации\
 
